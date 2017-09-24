@@ -19,11 +19,9 @@
 
 [资源类型]:  //developer.android.com/guide/topics/resources/available-resources.html
 [创建 Android 项目]:  ../../basics/firstapp/creating-project.html
-[调用一个方法]:  #solution
+[调用一个方法]:
 
-## 解释和解决方案{#solution}
-
-[figure_languages_01]: ./languages_01.png
+[figure_languages_01]:  ./languages_01.png
 
 把UI中的字符串存储在外部文件，通过代码提取，这是一种很好的做法。Android可以通过工程中的资源目录轻松实现这一功能。
 
