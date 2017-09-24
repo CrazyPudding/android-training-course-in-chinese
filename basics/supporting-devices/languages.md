@@ -19,7 +19,9 @@
 
 [资源类型]:  //developer.android.com/guide/topics/resources/available-resources.html
 [创建 Android 项目]:  ../../basics/firstapp/creating-project.html
-[调用一个方法]:  
+[调用一个方法]:  #solution
+
+## 解释和解决方案{#solution}
 
 [figure_languages_01]: ./languages_01.png
 
